@@ -32,7 +32,8 @@ print(arr_final)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="891" height="508" alt="image" src="https://github.com/user-attachments/assets/13f97578-5704-4916-b90a-85778c17fe8e" />
+
 
 ## Result
 We got the successful output
