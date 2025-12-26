@@ -26,7 +26,7 @@ print(equal)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="1094" height="368" alt="image" src="https://github.com/user-attachments/assets/567ed327-9890-4e5b-9d1b-844512d4a19f" />
 
 ## Result
 We got the successful output
